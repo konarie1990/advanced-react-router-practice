@@ -1,9 +1,9 @@
 import React from "react";
 
-function Settings() {
+function Graph() {
   return (
     <div>
-      Settings
+      Graphs
       <img
         src="https://docs.microsoft.com/en-us/azure/bot-service/media/bot-service-portal-configure-settings/bot-settings-blade.png?view=azure-bot-service-4.0"
         alt="none"
@@ -12,4 +12,4 @@ function Settings() {
   );
 }
 
-export default Settings;
+export default Graph;

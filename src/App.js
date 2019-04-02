@@ -1,7 +1,7 @@
 import React from "react";
 import TopNav from "./components/TopNav";
 import SideNav from "./components/SideNav";
-import { BrowserRouter, Switch, Route } from "react-router-dom";
+import { BrowserRouter, Route } from "react-router-dom";
 import Dashboard from "./components/Dashboard";
 import Charts from "./components/Charts";
 import Tables from "./components/Tables";
